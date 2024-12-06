@@ -26,7 +26,7 @@ export const Header = () => {
   return (
     <div
       className={clsx(
-        "relative z-[999999999999] w-full bg-white shadow-[0px_4px_4px_#00000009]",
+        "relative z-[9999] w-full bg-white shadow-[0px_4px_4px_#00000009]",
         isOpened && "sticky top-0 bg-red-500"
       )}
     >

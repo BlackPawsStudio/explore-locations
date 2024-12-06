@@ -8,15 +8,11 @@ import { NavigationSection } from "./subcomponents/NavigationSection";
 export const HomePage = () => (
   <>
     <Head>
-      <title>
-        {
-          "Explorelocations.com - Explore Airports, Flying and Driving Routes anywhere in the World"
-        }
-      </title>
+      <title>{"Explorelocations.com"}</title>
       <meta
         name="description"
         content={
-          "Explorelocations.com helps you discover airports anywhere in the world, but also find great flying or driving routes. Discover interesting locations for your next trip."
+          "This is not an official website. Original was closed, this is just a mock version"
         }
       />
     </Head>
